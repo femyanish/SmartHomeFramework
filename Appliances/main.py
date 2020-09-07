@@ -1,1 +1,0 @@
-#home appliance related code
